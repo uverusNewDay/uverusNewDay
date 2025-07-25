@@ -1,45 +1,41 @@
 ## Hi there, nice to meet you 👋
 
-<p align="left">
-  <a href="https://bsky.app/profile/knruzhev.xyz" target="_blank">
-    <img src="https://cdn.simpleicons.org/bluesky/007FFF" alt="Bluesky" width="40" height="40">
-  </a>
-  <a href="https://www.linkedin.com/in/konstantinruzhev" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" width="40" height="40" />
-  </a>
-  <a href="https://twitter.com/knruzhev" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/000000" alt="X (Twitter)" width="40" height="40">
-  </a>
-  <a href="https://github.com/uverusNewDay" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40">
-  </a>
-</p>
-
 ## 🧰 Stack
 
-#### Front End
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+<table>
+  <tr>
+    <td>
 
-#### In Between
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?logo=nuxtdotjs&logoColor=white)
+      ### Front End  
+      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" />  
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js" />  
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />  
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />  
 
-#### Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+      ### In Between  
+      <img src="https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white" alt="Next.js" />  
+      <img src="https://img.shields.io/badge/Nuxt.js-00C58E?logo=nuxtdotjs&logoColor=white" alt="Nuxt.js" />  
 
-#### Tools
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+    </td>
+    <td>
 
-#### Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+      ### Backend  
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" />  
+      <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />  
 
-#### Testing
-![PHPUnit](https://img.shields.io/badge/PHPUnit-3C4F7A?logo=phpunit&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
+      ### Tools  
+      <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite" />  
+
+      ### Design  
+      <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" />  
+
+      ### Testing  
+      <img src="https://img.shields.io/badge/PHPUnit-3C4F7A?logo=phpunit&logoColor=white" alt="PHPUnit" />  
+      <img src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white" alt="Vitest" />  
+
+    </td>
+  </tr>
+</table>
 
 ```typescript
   // intro.ts
