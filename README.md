@@ -5,7 +5,7 @@
     <img src="https://cdn.simpleicons.org/bluesky/007FFF" alt="Bluesky" width="40" height="40">
   </a>
   <a href="https://www.linkedin.com/in/konstantinruzhev" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="40" height="40">
+    <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" width="40" height="40" />
   </a>
   <a href="https://twitter.com/knruzhev" target="_blank">
     <img src="https://cdn.simpleicons.org/x/000000" alt="X (Twitter)" width="40" height="40">
