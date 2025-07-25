@@ -2,7 +2,7 @@
 
 ## 🧰 Stack
 
-### Front End
+#### Front End
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -26,7 +26,7 @@
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-3C4F7A?logo=phpunit&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
 
-```
+```typescript
   // intro.ts
   
   interface DeveloperProfile {
