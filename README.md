@@ -1,10 +1,21 @@
 ## Hi there, nice to meet you 👋
 
 <p align="center">
-  <a href="https://bsky.app/profile/knruzhev.xyz"><img src="imgs/bluesky.svg" alt="Bluesky"></a>
-	<a href=" https://www.linkedin.com/in/konstantinruzhev"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-	<a href="https://twitter.com/knruzhev"><img src="imgs/twitter.svg" alt="Twitter"></a>
-	<a href="https://github.com/uverusNewDay"><img src="imgs/github.svg" alt="GitHub"></a>
+  <a href="https://bsky.app/profile/knruzhev.xyz" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bluesky.svg" alt="Bluesky" width="30" height="30">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/konstantinruzhev" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30" height="30">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/knruzhev" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="Twitter" width="30" height="30">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/uverusNewDay" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="30" height="30">
+  </a>
 </p>
 
 ## 🧰 Stack
