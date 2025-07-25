@@ -1,5 +1,12 @@
 ## Hi there, nice to meet you 👋
 
+<p align="center">
+  <a href="https://bsky.app/profile/knruzhev.xyz"><img src="imgs/bluesky.svg" alt="Bluesky"></a>
+	<a href=" https://www.linkedin.com/in/konstantinruzhev"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+	<a href="https://twitter.com/knruzhev"><img src="imgs/twitter.svg" alt="Twitter"></a>
+	<a href="https://github.com/uverusNewDay"><img src="imgs/github.svg" alt="GitHub"></a>
+</p>
+
 ## 🧰 Stack
 
 #### Front End
@@ -8,21 +15,21 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
-### In Between
+#### In Between
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?logo=nuxtdotjs&logoColor=white)
 
-### Backend
+#### Backend
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
-### Tools
+#### Tools
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 
-### Design
+#### Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
-### Testing
+#### Testing
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-3C4F7A?logo=phpunit&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
 
