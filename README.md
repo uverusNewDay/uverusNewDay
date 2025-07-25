@@ -8,7 +8,7 @@
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="40" height="40">
   </a>
   <a href="https://twitter.com/knruzhev" target="_blank">
-    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" alt="Twitter" width="40" height="40">
+    <img src="https://cdn.simpleicons.org/x/000000" alt="X (Twitter)" width="40" height="40">
   </a>
   <a href="https://github.com/uverusNewDay" target="_blank">
     <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40">
