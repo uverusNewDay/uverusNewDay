@@ -35,6 +35,7 @@
     yearsExperience: number;
     location: string;
     interests?: string[];
+    lovesPodcasts?: string[];
     greet(): void;
     summary(): string;
   }
@@ -45,11 +46,16 @@
     yearsExperience: new Date().getFullYear() - 2018,
     location: "Bournemouth, UK",
     interests: [
-      "Clean Code",
-      "UI/UX",
       "Football",
       "Climbing",
       "Cycling"
+    ],
+    lovesPodcasts: [
+      "Syntax FM",
+      "Darknet Diaries",
+      "Laravel Podcast",
+      "Lenny's Podcast",
+      "Front-End Fire"
     ],
     greet() {
       console.log(`Hi, I’m ${this.name}!`);
