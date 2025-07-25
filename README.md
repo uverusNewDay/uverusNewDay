@@ -1,17 +1,17 @@
 ## Hi there, nice to meet you 👋
 
-<p align="center">
+<p align="left">
   <a href="https://bsky.app/profile/knruzhev.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/Bluesky-007FFF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky">
+    <img src="https://cdn.simpleicons.org/bluesky/007FFF" alt="Bluesky" width="40" height="40">
   </a>
   <a href="https://www.linkedin.com/in/konstantinruzhev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="40" height="40">
   </a>
   <a href="https://twitter.com/knruzhev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" alt="Twitter" width="40" height="40">
   </a>
   <a href="https://github.com/uverusNewDay" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40">
   </a>
 </p>
 
